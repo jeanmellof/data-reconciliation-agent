@@ -1,0 +1,15 @@
+reference,date,description,amount
+LED-0001,2026-09-01,Opening balance deposit,10000.00
+LED-0002,2026-09-04,Vendor payment Acme,-1250.75
+LED-0003,2026-09-06,Invoice 4471 received,3200.00
+LED-0004,2026-09-09,Office supplies,189.40
+LED-0005,2026-09-10,Payroll,-8500.00
+LED-0006,2026-09-12,Supplier refund,450.00
+LED-0007,2026-09-16,Consulting,5600.00
+LED-0008,2026-09-18,Software sub,-299.99
+LED-0009,2026-09-20,Invoice 4488,2750.00
+LED-0011,2026-09-25,Equipment,3400.00
+LED-0012,2026-09-27,Interest,18.45
+LED-0013,2026-09-29,Invoice 4502,1980.00
+LED-0014,2026-09-30,Insurance,-1425.00
+LED-0099,2026-09-24,Unknown charge,-75.00
